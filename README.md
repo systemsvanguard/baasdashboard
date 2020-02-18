@@ -1,7 +1,7 @@
 # BaaS Dashboard
 A simple **BaaS Dashboard** demonstration. A work in progress. Built with React.js, Canvas and Bootstrap 4.
 
-Live **Site Demo** ~ [BaaS Dashboard](http://baas.ryanhunter.ca/) 
+Live **Site Demo** ~ [BaaS Dashboard](https://baasashboard.herokuapp.com/) 
 
 ![BaaS Dashboard 1](http://ryanhunter.ca/images/portfolio/baas_dashboard01.png)
 
